@@ -1,10 +1,10 @@
 # remove-sensitive-data-test
 
-###Reference:
+## Reference:
 https://help.github.com/articles/removing-sensitive-data-from-a-repository/
 https://rtyley.github.io/bfg-repo-cleaner/
 
-###Mirror Your Branch And Take Backup:
+## Mirror Your Branch And Take Backup:
 
 $ git clone --mirror git://example.com/some-big-repo.git
 
